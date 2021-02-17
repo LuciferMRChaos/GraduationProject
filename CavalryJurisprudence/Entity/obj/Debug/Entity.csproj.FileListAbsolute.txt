@@ -1,0 +1,9 @@
+D:\My PC\Codes\大三下.net期末大作业\学生版版本控制\实训案例\Entity\bin\Debug\Entity.dll
+D:\My PC\Codes\大三下.net期末大作业\学生版版本控制\实训案例\Entity\bin\Debug\Entity.pdb
+D:\My PC\Codes\大三下.net期末大作业\学生版版本控制\实训案例\Entity\obj\Debug\Entity.dll
+D:\My PC\Codes\大三下.net期末大作业\学生版版本控制\实训案例\Entity\obj\Debug\Entity.pdb
+D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\Entity\bin\Debug\Entity.dll
+D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\Entity\bin\Debug\Entity.pdb
+D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\Entity\obj\Debug\Entity.dll
+D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\Entity\obj\Debug\Entity.pdb

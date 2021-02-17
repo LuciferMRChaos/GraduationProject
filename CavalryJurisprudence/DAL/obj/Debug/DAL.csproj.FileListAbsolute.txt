@@ -1,0 +1,9 @@
+D:\My PC\Codes\大三下.net期末大作业\学生版版本控制\实训案例\DAL\bin\Debug\DAL.dll
+D:\My PC\Codes\大三下.net期末大作业\学生版版本控制\实训案例\DAL\bin\Debug\DAL.pdb
+D:\My PC\Codes\大三下.net期末大作业\学生版版本控制\实训案例\DAL\obj\Debug\DAL.dll
+D:\My PC\Codes\大三下.net期末大作业\学生版版本控制\实训案例\DAL\obj\Debug\DAL.pdb
+D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\DAL\bin\Debug\DAL.dll
+D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\DAL\bin\Debug\DAL.pdb
+D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\DAL\obj\Debug\DAL.dll
+D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\DAL\obj\Debug\DAL.pdb
