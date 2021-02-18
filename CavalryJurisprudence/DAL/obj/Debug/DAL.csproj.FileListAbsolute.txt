@@ -1,9 +1,120 @@
-D:\My PC\Codes\大三下.net期末大作业\学生版版本控制\实训案例\DAL\bin\Debug\DAL.dll
-D:\My PC\Codes\大三下.net期末大作业\学生版版本控制\实训案例\DAL\bin\Debug\DAL.pdb
-D:\My PC\Codes\大三下.net期末大作业\学生版版本控制\实训案例\DAL\obj\Debug\DAL.dll
-D:\My PC\Codes\大三下.net期末大作业\学生版版本控制\实训案例\DAL\obj\Debug\DAL.pdb
-D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\DAL\bin\Debug\DAL.dll
-D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\DAL\bin\Debug\DAL.pdb
-D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\DAL\obj\Debug\DAL.dll
-D:\My PC\Codes\GitGraduationProject\GraduationProject\CavalryJurisprudence\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\Cavalry\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\Cavalry\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\Cavalry\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\81425\Desktop\.Net模块化推进板\Cavalry\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\.Net模块化推进板\Cavalry\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\Cavalry\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\1.公司模块\Cavalry-公司模块\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\1.公司模块\Cavalry-公司模块\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\1.公司模块\Cavalry-公司模块\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\.Net模块化推进板\1.公司模块\Cavalry-公司模块\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\1.公司模块\Cavalry-公司模块\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\4.注册\Cavalry-注册模块\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\4.注册\Cavalry-注册模块\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\4.注册\Cavalry-注册模块\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\.Net模块化推进板\4.注册\Cavalry-注册模块\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\4.注册\Cavalry-注册模块\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\4.注册\Cavalry-注册模块\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\81425\Desktop\.Net模块化推进板\6.积分商城\Cavalry-积分商城模块\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\6.积分商城\Cavalry-积分商城模块\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\6.积分商城\Cavalry-积分商城模块\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\.Net模块化推进板\6.积分商城\Cavalry-积分商城模块\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\6.积分商城\Cavalry-积分商城模块\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\3.投资师\Cavalry-投资师模块\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\3.投资师\Cavalry-投资师模块\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\3.投资师\Cavalry-投资师模块\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\81425\Desktop\.Net模块化推进板\3.投资师\Cavalry-投资师模块\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\.Net模块化推进板\3.投资师\Cavalry-投资师模块\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\3.投资师\Cavalry-投资师模块\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\5.登录(开发中)\Cavalry-登录模块\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\5.登录(开发中)\Cavalry-登录模块\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\5.登录(开发中)\Cavalry-登录模块\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\.Net模块化推进板\5.登录(开发中)\Cavalry-登录模块\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\5.登录(开发中)\Cavalry-登录模块\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\5.登录(开发中)\Cavalry-登录模块\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\81425\Desktop\.Net模块化推进板\7.个人中心(开发中)\Cavalry-个人中心模块\Cavalry-登录模块\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\7.个人中心(开发中)\Cavalry-个人中心模块\Cavalry-登录模块\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\7.个人中心(开发中)\Cavalry-个人中心模块\Cavalry-登录模块\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\.Net模块化推进板\7.个人中心(开发中)\Cavalry-个人中心模块\Cavalry-登录模块\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\7.个人中心(开发中)\Cavalry-个人中心模块\Cavalry-登录模块\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\7.个人中心(开发中)\Cavalry-个人中心模块\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\7.个人中心(开发中)\Cavalry-个人中心模块\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\7.个人中心(开发中)\Cavalry-个人中心模块\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\.Net模块化推进板\7.个人中心(开发中)\Cavalry-个人中心模块\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\7.个人中心(开发中)\Cavalry-个人中心模块\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\8.个人中心(开发中)\Cavalry-个人中心模块\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\8.个人中心(开发中)\Cavalry-个人中心模块\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\8.个人中心(开发中)\Cavalry-个人中心模块\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\.Net模块化推进板\8.个人中心(开发中)\Cavalry-个人中心模块\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\8.个人中心(开发中)\Cavalry-个人中心模块\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\7.金融新闻\Cavalry-个人中心模块\Cavalry-个人中心模块\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\7.金融新闻\Cavalry-个人中心模块\Cavalry-个人中心模块\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\7.金融新闻\Cavalry-个人中心模块\Cavalry-个人中心模块\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\.Net模块化推进板\7.金融新闻\Cavalry-个人中心模块\Cavalry-个人中心模块\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\7.金融新闻\Cavalry-个人中心模块\Cavalry-个人中心模块\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\7.金融（开发中）\Cavalry-金融新闻模块\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\7.金融（开发中）\Cavalry-金融新闻模块\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\7.金融（开发中）\Cavalry-金融新闻模块\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\.Net模块化推进板\7.金融（开发中）\Cavalry-金融新闻模块\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\7.金融（开发中）\Cavalry-金融新闻模块\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\2.产品模块(开发中)\Cavalry-产品模块\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\2.产品模块(开发中)\Cavalry-产品模块\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\2.产品模块(开发中)\Cavalry-产品模块\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\.Net模块化推进板\2.产品模块(开发中)\Cavalry-产品模块\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\2.产品模块(开发中)\Cavalry-产品模块\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\1.公司模块(开发中)\Cavalry-公司模块\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\1.公司模块(开发中)\Cavalry-公司模块\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\1.公司模块(开发中)\Cavalry-公司模块\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\.Net模块化推进板\1.公司模块(开发中)\Cavalry-公司模块\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\1.公司模块(开发中)\Cavalry-公司模块\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\微调阶段(开发中)\Cavalry-微调阶段\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\微调阶段(开发中)\Cavalry-微调阶段\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\.Net模块化推进板\微调阶段(开发中)\Cavalry-微调阶段\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\.Net模块化推进板\微调阶段(开发中)\Cavalry-微调阶段\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\.Net模块化推进板\微调阶段(开发中)\Cavalry-微调阶段\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\毕业设计\分块开发\1.角色\1.管理员\管理员\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\毕业设计\分块开发\1.角色\1.管理员\管理员\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\毕业设计\分块开发\1.角色\1.管理员\管理员\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\毕业设计\分块开发\1.角色\1.管理员\管理员\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\毕业设计\分块开发\1.角色\1.管理员\管理员\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\毕业设计\分块开发\1.角色\8.积分商城模块\积分商城\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\毕业设计\分块开发\1.角色\8.积分商城模块\积分商城\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\毕业设计\分块开发\1.角色\8.积分商城模块\积分商城\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\81425\Desktop\毕业设计\分块开发\1.角色\8.积分商城模块\积分商城\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\毕业设计\分块开发\1.角色\8.积分商城模块\积分商城\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\毕业设计\分块开发\1.角色\8.积分商城模块\积分商城\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\毕业设计\分块开发\1.1控件拖拽阶段\精细拖拽开发中\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\毕业设计\分块开发\1.1控件拖拽阶段\精细拖拽开发中\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\毕业设计\分块开发\1.1控件拖拽阶段\精细拖拽开发中\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\毕业设计\分块开发\1.1控件拖拽阶段\精细拖拽开发中\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\毕业设计\分块开发\1.1控件拖拽阶段\精细拖拽开发中\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\1.1控件拖拽阶段\精细拖拽开发中\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\1.1控件拖拽阶段\精细拖拽开发中\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\1.1控件拖拽阶段\精细拖拽开发中\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\1.1控件拖拽阶段\精细拖拽开发中\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\1.1控件拖拽阶段\精细拖拽开发中\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\毕业设计\分块开发\0.精细拖拽开发中\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\毕业设计\分块开发\0.精细拖拽开发中\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\毕业设计\分块开发\0.精细拖拽开发中\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\毕业设计\分块开发\0.精细拖拽开发中\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\毕业设计\分块开发\0.精细拖拽开发中\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\0.精细拖拽开发中\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\0.精细拖拽开发中\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\0.精细拖拽开发中\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\0.精细拖拽开发中\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\0.精细拖拽开发中\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\毕业设计\0.精细拖拽开发中\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\毕业设计\0.精细拖拽开发中\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\毕业设计\0.精细拖拽开发中\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\毕业设计\0.精细拖拽开发中\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\毕业设计\0.精细拖拽开发中\DAL\obj\Debug\DAL.pdb
+C:\Users\81425\Desktop\毕业项目\17级19班150451515毛润晨\凯渥瑞律师网站\项目代码\DAL\bin\Debug\DAL.dll
+C:\Users\81425\Desktop\毕业项目\17级19班150451515毛润晨\凯渥瑞律师网站\项目代码\DAL\bin\Debug\DAL.pdb
+C:\Users\81425\Desktop\毕业项目\17级19班150451515毛润晨\凯渥瑞律师网站\项目代码\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\81425\Desktop\毕业项目\17级19班150451515毛润晨\凯渥瑞律师网站\项目代码\DAL\obj\Debug\DAL.dll
+C:\Users\81425\Desktop\毕业项目\17级19班150451515毛润晨\凯渥瑞律师网站\项目代码\DAL\obj\Debug\DAL.pdb
+D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\DAL\bin\Debug\DAL.dll
+D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\DAL\bin\Debug\DAL.pdb
+D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\DAL\obj\Debug\DAL.dll
+D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\DAL\obj\Debug\DAL.pdb
