@@ -39,7 +39,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdminInfoEntity.cs" />
+    <Compile Include="ArticleInfoEntity.cs" />
+    <Compile Include="BoardApplyInfo.cs" />
+    <Compile Include="BoardInfoEntity.cs" />
+    <Compile Include="ClientInfoEntity.cs" />
+    <Compile Include="CounsellorInfoEntity.cs" />
+    <Compile Include="DevelopLogs.cs" />
+    <Compile Include="GiftInfoEntity.cs" />
+    <Compile Include="GiftTradeInfoENtity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuestionInfoEntity.cs" />
+    <Compile Include="WantedQuestionDetailsInfoEntity.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

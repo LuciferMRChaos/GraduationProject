@@ -113,8 +113,3 @@ C:\Users\81425\Desktop\毕业项目\17级19班150451515毛润晨\凯渥瑞律师
 C:\Users\81425\Desktop\毕业项目\17级19班150451515毛润晨\凯渥瑞律师网站\项目代码\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\81425\Desktop\毕业项目\17级19班150451515毛润晨\凯渥瑞律师网站\项目代码\DAL\obj\Debug\DAL.dll
 C:\Users\81425\Desktop\毕业项目\17级19班150451515毛润晨\凯渥瑞律师网站\项目代码\DAL\obj\Debug\DAL.pdb
-D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\DAL\bin\Debug\DAL.dll
-D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\DAL\bin\Debug\DAL.pdb
-D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\DAL\obj\Debug\DAL.dll
-D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\DAL\obj\Debug\DAL.pdb

@@ -116,9 +116,3 @@ C:\Users\81425\Desktop\毕业项目\17级19班150451515毛润晨\凯渥瑞律师
 C:\Users\81425\Desktop\毕业项目\17级19班150451515毛润晨\凯渥瑞律师网站\项目代码\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
 C:\Users\81425\Desktop\毕业项目\17级19班150451515毛润晨\凯渥瑞律师网站\项目代码\Entity\obj\Debug\Entity.dll
 C:\Users\81425\Desktop\毕业项目\17级19班150451515毛润晨\凯渥瑞律师网站\项目代码\Entity\obj\Debug\Entity.pdb
-D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\Entity\bin\Debug\Entity.dll
-D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\Entity\bin\Debug\Entity.pdb
-D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
-D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
-D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\Entity\obj\Debug\Entity.dll
-D:\My PC\Codes\GitGraduationProject\CavalryJurisprudence\Entity\obj\Debug\Entity.pdb
