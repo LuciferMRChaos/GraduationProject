@@ -1,0 +1,15 @@
+#overlay { /*核心代码——实现“两层”*/
+    /*让最上一层可以实现随意上下滑动而不影响背景*/
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    height: 111%;
+    color: #ffffff;
+    overflow-y: scroll;
+}
+
+.bgContain img { /*可以让背景图片适配*/
+    border: 0px;
+    width: 100%;
+    height: 100%;
+}

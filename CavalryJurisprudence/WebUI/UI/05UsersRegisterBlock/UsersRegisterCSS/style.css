@@ -1,0 +1,53 @@
+
+
+h1 {
+  font-size: 2em;
+  font-family: "Core Sans N W01 35 Light";
+  font-weight: normal;
+  display: block;
+}
+
+.module{
+  position:relative;  
+  height:100%;
+  width:450px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+body {
+    color: #fff;
+    background-color: #f0f0f0;
+    font-family: helvetica;
+    background: url('../../WebImages/05UsersRegisterBackgroundImage.jpg')
+    #0f2439 no-repeat center top;
+}
+
+.body-content{
+  position:relative;
+  height:700px;
+  width:800px;
+  margin-left:auto;
+  margin-right:auto; 
+  background: transparent;
+}
+input[type="text"],
+input[type="email"]
+{
+  height:30px;
+  width:100%;;
+  display: inline-block;
+  vertical-align: middle;
+  height: 34px;
+  padding: 0 10px;
+  margin-top: 3px;
+  margin-bottom: 10px;
+  font-size: 15px;
+  line-height: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: rgba(255, 255, 255, 0.7);
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  border-radius: 2px;
+}

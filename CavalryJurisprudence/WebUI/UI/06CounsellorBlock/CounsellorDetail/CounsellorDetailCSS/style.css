@@ -1,0 +1,78 @@
+*{
+  margin:0;
+  padding:0;
+  color:#fff;
+}
+canvas{
+  position:fixed;
+  top:0;
+  left:0;
+  z-index:-1000;
+}
+header{
+  background:rgba(0,0,0,0.5);
+}
+header .name{
+  font-size:4em;
+}
+footer{
+  background:rgba(0,0,0,0.5);
+  text-align:center;
+}
+.pic img{
+  border-radius:20px;
+  min-width:60px;
+}
+.introduction{
+  background:rgba(0,0,0,0.5);
+  font-size:1.4em;
+}
+.links{
+  background:rgba(0,0,0,0.5);
+}
+.title{
+  font-size:1.4em;
+  font-weight: bold;
+}
+.tab{
+  margin-top:1em;
+  text-align:center;
+}
+.tab-top > div{
+  background: #000;
+  font-weight:bold;
+  padding:0.8em 0;
+  transition:all 1s;
+}
+.tab-top > div.cur{
+  background:#fff;
+  color:#000;
+}
+.tab-content{
+  height:500px;
+}
+.tab-content img{
+  opacity:0.9;
+  transition: all 0.6s;
+}
+.tab-content a{
+  overflow:hidden;
+  margin-top:2em;
+}
+.tab-content > div{
+  display:none;
+}
+.tab-content > div.current{
+  display:block;
+}
+i.fa-heart{
+  position:absolute;
+  bottom:1%;
+  right:5%;
+  color:#555;
+  z-index:100;
+  display:none;
+}
+i.fa-heart.like{
+  color:#F99;
+}
