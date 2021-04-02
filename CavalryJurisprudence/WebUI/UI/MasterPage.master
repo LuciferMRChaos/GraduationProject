@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+
+        .auto-style2 {
+            height: 550px;
+        }
+
+        .auto-style3 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <link rel="stylesheet" href="MasterPageCSS/style.css">
+
+            <div ng-app="app">
+                <!--导航-->
+                <header ng-controller="controller">
+                    <div class="wrapper">
+                        <nav magic-tabs="">
+                            <asp:Image ID="IMGLOGO" runat="server" ImageUrl="~/CavalryLOGO.png"  />
+                            <asp:HyperLink ID="HLMain" runat="server" NavigateUrl="~/00Default.aspx">主页</asp:HyperLink>
+                            <asp:HyperLink ID="HLClientPersonalCentre" runat="server" NavigateUrl="~/03ClientPersonalCentre.aspx">个人中心</asp:HyperLink>
+                            <asp:HyperLink ID="HLCounsellorPersonalCentre" runat="server" NavigateUrl="~/03CounsellorPersonalCentre.aspx">个人中心</asp:HyperLink>
+                            <asp:HyperLink ID="HLLogin" runat="server" NavigateUrl="~/04UsersLogin.aspx">登录</asp:HyperLink>
+                            <asp:HyperLink ID="HLRegister" runat="server" NavigateUrl="~/05UsersRegister.aspx">注册</asp:HyperLink>
+                            <asp:HyperLink ID="HLArticleList" runat="server" NavigateUrl="~/07ArticleList.aspx">文章</asp:HyperLink>
+                            <asp:HyperLink ID="HLCounsellorsList" runat="server" NavigateUrl="~/06CounsellorList.aspx">律师</asp:HyperLink>
+                            <asp:HyperLink ID="HLWantedList" runat="server" NavigateUrl="~/09WantedList.aspx">悬赏</asp:HyperLink>
+                            <asp:HyperLink ID="HLGiftList" runat="server" NavigateUrl="~/10GiftList.aspx">礼品商城</asp:HyperLink>
+                            
+                            <asp:LinkButton ID="LBQuit" runat="server" OnClick="LBQuit_Click" PostBackUrl="~/0000.aspx">退出</asp:LinkButton>
+                            <!--有最大限制，超过则会变成两行-->
+                        </nav>
+                    </div>
+                </header>
+            </div>
+
+            <div>
+                <table class="auto-style1">
+                    <tr>
+                        <td class="auto-style2">
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="auto-style3">
+      
+                                <asp:TextBox ID="TBSearch" runat="server" Height="25px" Width="205px" placeholder="请输入您要搜索的内容" ></asp:TextBox><br />
+                            <asp:Button ID="BTNSearch" runat="server" Text="搜索" Height="27px" Width="60px" OnClick="BTNSearch_Click" /><br />
+
+                            <asp:Label ID="LBLAlert" runat="server" Text=""></asp:Label><br />
+                            大连外国语大学·软件学院
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="auto-style3"></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+
+
